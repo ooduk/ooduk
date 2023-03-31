@@ -5,7 +5,7 @@
  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
  
  <p>═════════════════════════════════════════════</p>
-  <img align="right" height="200" width="400" src="https://media.tenor.com/YKyjgKg1JiIAAAAd/gojou-gojo.gif" />
+  <img align="right" height="150" width="300" src="https://media.tenor.com/YKyjgKg1JiIAAAAd/gojou-gojo.gif" />
   </details>
  <div>
   <a href="https://github.com/ooduk">
