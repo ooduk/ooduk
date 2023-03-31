@@ -9,6 +9,7 @@
   </details>
  <div>
   <a href="https://github.com/ooduk">
+  <img height="162" src="https://github-readme-stats.vercel.app/api?username=Strelizya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="149" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooduk&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
